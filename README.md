@@ -7,4 +7,4 @@
 🌐 Cloud & DevOps: Automating infrastructure and deployment processes using tools like Ansible, Docker, and AWS.
 🛠️ Version Control & Collaboration: Utilizing Git and GitHub to manage codebases, collaborate on open-source projects, and streamline version control.
 
-📈 Always Learning: I'm committed to lifelong learning and continuously updating my skills. I'm currently diving deeper into container orchestration, CI/CD pipelines, and scalable solutions.
+📈 Always Learning: I'm committed to lifelong learning and continuously updating my skills.
